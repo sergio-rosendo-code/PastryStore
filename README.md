@@ -1,1 +1,1 @@
-# PastryStore
+# Pastry Store
